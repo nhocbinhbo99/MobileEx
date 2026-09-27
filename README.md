@@ -31,7 +31,7 @@ Repository này lưu trữ các bài tập thực hành theo từng buổi học
 
 ---
 
-## 📚 Danh Sách Bài Tập Theo Buổi
+##  Danh Sách Bài Tập Theo Buổi
 
 ```text
 MobileEx/
