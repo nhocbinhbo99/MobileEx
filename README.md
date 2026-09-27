@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 BÀI TẬP LẬP TRÌNH THIẾT BỊ DI ĐỘNG (REACT NATIVE)
+#  BÀI TẬP LẬP TRÌNH THIẾT BỊ DI ĐỘNG (REACT NATIVE)
 
 <!-- Badges Section -->
 <p align="center">
@@ -15,17 +15,17 @@
 
 ---
 
-## 👨‍🎓 Thông Tin Sinh Viên
+##  Thông Tin Sinh Viên
 
 | Mục | Chi tiết |
 | :--- | :--- |
-| **👤 Họ và tên** | **Hoàng Phước Thành Công** |
-| **🆔 Mã số sinh viên (MSSV)** | `23731851` |
-| **🏫 Lớp sinh viên** | **DHKTPM19BTT** |
+| ** Họ và tên** | **Hoàng Phước Thành Công** |
+| ** Mã số sinh viên (MSSV)** | `23731851` |
+| ** Lớp sinh viên** | **DHKTPM19BTT** |
 
 ---
 
-## 🎯 Giới Thiệu Repository
+##  Giới Thiệu Repository
 
 Repository này lưu trữ các bài tập thực hành theo từng buổi học (Day) của môn học **Lập trình Thiết bị Di động với React Native & TypeScript**. Các bài tập bao gồm từ kiến thức lập trình TypeScript hướng đối tượng (OOP) cơ bản đến việc thiết kế và phát triển ứng dụng di động hoàn chỉnh đa màn hình sử dụng **Expo**.
 
