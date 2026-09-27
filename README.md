@@ -27,7 +27,7 @@
 
 ##  Giới Thiệu Repository
 
-Repository này lưu trữ các bài tập thực hành theo từng buổi học (Day) của môn học **Lập trình Thiết bị Di động với React Native & TypeScript**. Các bài tập bao gồm từ kiến thức lập trình TypeScript hướng đối tượng (OOP) cơ bản đến việc thiết kế và phát triển ứng dụng di động hoàn chỉnh đa màn hình sử dụng **Expo**.
+Repository này lưu trữ các bài tập thực hành theo từng buổi học (Day) của môn học **Lập trình Thiết bị Di động với React Native & TypeScript** và sử dụng **Expo**.
 
 ---
 
