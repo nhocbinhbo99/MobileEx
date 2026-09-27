@@ -39,4 +39,4 @@ yarn-error.*
 # generated native folders
 /ios
 /android
-# npx expo start -c --tunnel
+# npx expo start -c --tunnel\
