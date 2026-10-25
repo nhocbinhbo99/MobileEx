@@ -29,7 +29,8 @@ MobileEx/
 ├── 📁 Day1/                # Nền tảng TypeScript & Hướng đối tượng (OOP)
 ├── 📁 Day2/                # Xử lý nâng cao trong TypeScript & Thuật toán
 ├── 📁 Day3/                # Làm quen React Native Core & Expo Framework
-└── 📁 Day4/                # Phát triển ứng dụng Bookstore Online đa màn hình
+├── 📁 Day4/                # Phát triển ứng dụng Bookstore Online đa màn hình
+└── 📁 Day6/                # React Navigation (Native Stack, Bottom Tabs, Drawer)
 ```
 
 
