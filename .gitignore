@@ -1,1 +1,7 @@
 node_modules/
+*.docx
+*.doc
+*.rar
+*.zip
+.expo/
+.DS_Store
