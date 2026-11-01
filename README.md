@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Thông Tin Sinh Viên
+## Thông Tin Sinh Viên
 
 | Mục | Chi tiết |
 | :--- | :--- |
@@ -17,13 +17,13 @@
 
 ---
 
-## 📱 Giới Thiệu Repository
+##Giới Thiệu Repository
 
-Repository này lưu trữ toàn bộ các bài tập thực hành theo từng buổi học (Day) của môn học **Lập trình Thiết bị Di động với React Native & TypeScript**, xây dựng trên nền tảng **Expo Framework (SDK 58)**.
+Repository này lưu trữ toàn bộ các bài tập thực hành theo từng buổi học (Day) của môn học **Lập trình Thiết bị Di động với React Native & TypeScript**, xây dựng trên nền tảng **Expo Framework **.
 
 ---
 
-## 📂 Danh Sách Bài Tập Theo Buổi
+## Danh Sách Bài Tập Theo Buổi
 
 ```text
 MobileEx/
