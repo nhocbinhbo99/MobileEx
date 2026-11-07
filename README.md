@@ -32,7 +32,8 @@ MobileEx/
 ├── 📁 Day3/                # Làm quen React Native Core & Expo Framework
 ├── 📁 Day4/                # Phát triển ứng dụng Bookstore Online đa màn hình
 ├── 📁 Day6/                # React Navigation (Native Stack, Bottom Tabs, Drawer Navigation)
-└── 📁 Day7/                # BookStore: Nested Navigation, Redux Toolkit, API & Search Filter
+├── 📁 Day7/                # BookStore: Nested Navigation, Redux Toolkit, API & Search Filter
+└── 📁 Day8/                # BookStore: Authentication, Persistence, Reviews, Cart & Wishlist
 ```
 
 <div align="center">
